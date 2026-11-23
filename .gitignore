@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
+engine_source.py
 engine_v2.py
+system_prompt.md
